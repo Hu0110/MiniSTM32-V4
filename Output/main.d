@@ -63,4 +63,4 @@
 ..\..\output\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\..\output\main.o: ..\..\Drivers\./SYSTEM/delay/delay.h
 ..\..\output\main.o: ..\..\Drivers\./BSP/LED/led.h
-..\..\output\main.o: ..\..\Drivers\./BSP/KEY/key.h
+..\..\output\main.o: ..\..\Drivers\./BSP/EXTI/exti.h
